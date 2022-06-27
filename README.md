@@ -1,4 +1,4 @@
-### Hi there 👋<br> My name is Kathi
+### Hi there 👋<br> My name is Kathi<br>I am a newly trained in test automation and have recently gained many skills at a proficient entry level.
 
 #### You can reach my here: https://www.linkedin.com/in/kathi-oke/
 
