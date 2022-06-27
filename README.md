@@ -2,6 +2,18 @@
 
 #### You can reach my here: https://www.linkedin.com/in/kathi-oke/
 
+#### My Skillset:
+* Java
+* Selenium WebDriver
+* Postman
+* SQL
+* Javascript
+* Jenkins
+* Jira
+* TestNG
+* HTML / CSS
+* 
+
 ##### Fun fact: I'm a lego enthusiast!
 
 ###### Pronouns: She/her/hers
