@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello 👋
 <br> My name is Kathi<br>I am a newly trained in test automation and have recently gained many skills at a proficient entry level.
 
-#### You can reach my here: https://www.linkedin.com/in/kathi-oke/
+#### You can reach my here: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kathi-oke/)
+&nbsp;
+
 
 #### My Skillset:
 * Java
