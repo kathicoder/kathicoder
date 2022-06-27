@@ -1,4 +1,5 @@
-### Hi there 👋<br> My name is Kathi<br>I am a newly trained in test automation and have recently gained many skills at a proficient entry level.
+### Hi there 👋
+<br> My name is Kathi<br>I am a newly trained in test automation and have recently gained many skills at a proficient entry level.
 
 #### You can reach my here: https://www.linkedin.com/in/kathi-oke/
 
@@ -12,7 +13,7 @@
 * Jira
 * TestNG
 * HTML / CSS
-* 
+* newman
 
 ##### Fun fact: I'm a lego enthusiast!
 
